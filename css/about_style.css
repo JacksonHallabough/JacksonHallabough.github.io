@@ -71,3 +71,55 @@ nav ul li ul li a {
 nav ul li ul li a:hover {
   background-color: #f3f3f3;
 }
+
+.main-colum {
+  max-width: 1830px;
+  height: 790px;
+  background-color: white;
+  margin: 30px auto 0 auto;
+  line-height: 1.65;
+  padding: 20px 20px;
+}
+
+.about-1 {
+  float: right;
+  max-width: 1480px;
+}
+
+.about-1 h1 {
+  text-align: center;
+  font-family: arial;
+}
+
+.about-1 p {
+  text-align: left;
+  font-family: arial;
+  text-indent: 40px;
+  font-size: large;
+}
+
+.contact-1 h1 {
+  clear: left;
+  font-family: arial;
+  text-align: center;
+  width: 327px;
+  height: 350;
+}
+
+.contact-1 img {
+  float: left;
+  height: 350;
+  width: 320;
+}
+
+.contact-1 ul {
+  
+}
+
+.contact-1 ul li {
+
+}
+
+.contact-1 ul li h4 {
+  font-family: arial;
+}

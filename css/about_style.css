@@ -3,6 +3,11 @@
   padding: 0;
 }
 
+img {
+  margin: 1;
+  padding: 3;
+}
+
 body {
   background-image: url(../img/background.png);
   background-size: cover;

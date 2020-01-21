@@ -95,7 +95,18 @@ div img {
   width: 300;
   height: 360px;
   background-color: white;
-  margin: 30px auto 0 30px;
+  margin: 30px auto 0 70px;
+  line-height: 1.65;
+  padding: 20px 20px;
+  border-radius: 10px 10px 10px 10px;
+  float: left;
+}
+
+.third-colum {
+  width: 300;
+  height: 360px;
+  background-color: white;
+  margin: 30px auto 0 70px;
   line-height: 1.65;
   padding: 20px 20px;
   border-radius: 10px 10px 10px 10px;
@@ -137,6 +148,28 @@ div img {
 }
 
 .contact-1 h4 {
+  font-family: arial;
+  text-align: center;
+}
+
+.skills {
+  clear: left;
+  float: left;
+  width: 320px;
+  height: 350px;
+}
+
+.skills h1 {
+  font-family: arial;
+  text-align: center;
+}
+
+.skills h3 {
+  font-family: arial;
+  text-align: center;
+}
+
+.skills h4 {
   font-family: arial;
   text-align: center;
 }

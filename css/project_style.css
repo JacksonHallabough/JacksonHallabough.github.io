@@ -71,3 +71,109 @@ nav ul li ul li a {
 nav ul li ul li a:hover {
   background-color: #f3f3f3;
 }
+
+.website {
+  width: 400px;
+  height: 400px;
+  float: left;
+  border-radius: 10px 10px 10px 10px;
+  margin: 50px auto auto 50px;
+  background-color: white;
+  display: inline-block;
+  display: flex;
+  vertical-align: top;
+  text-align: right;
+}
+
+.website img {
+  width: 394px;
+  height: 330px;
+  position: absolute;
+  margin: 0px 0px 0px 0px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.website a {
+  font-family: arial;
+  align-self: flex-end;
+  text-decoration: none;
+  font-size: 30px;
+  margin: 0px 0px 18px 250px;
+  color: black;
+  white-space: nowrap;
+}
+
+.website a:hover {
+  background-color: #f3f3f3;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.puzzlecube {
+  width: 400px;
+  height: 400px;
+  float: left;
+  border-radius: 10px 10px 10px 10px;
+  margin: 50px auto auto 50px;
+  background-color: white;
+  display: inline-block;
+  display: flex;
+  vertical-align: top;
+}
+
+.puzzlecube img {
+  width: 394px;
+  height: 330px;
+  position: absolute;
+  margin: 0px 0px 0px 0px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.puzzlecube a {
+  font-family: arial;
+  align-self: flex-end;
+  text-decoration: none;
+  font-size: 30px;
+  margin: 0px 0px 18px 195px;
+  color: black;
+  white-space: nowrap;
+}
+
+.puzzlecube a:hover {
+  background-color: #f3f3f3;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.shapes {
+  width: 400px;
+  height: 400px;
+  float: left;
+  border-radius: 10px 10px 10px 10px;
+  margin: 50px auto auto 50px;
+  background-color: white;
+  display: inline-block;
+  display: flex;
+  vertical-align: top;
+}
+
+.shapes img {
+  width: 394px;
+  height: 330px;
+  position: absolute;
+  margin: 0px 0px 0px 0px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.shapes a {
+  font-family: arial;
+  align-self: flex-end;
+  text-decoration: none;
+  font-size: 30px;
+  margin: 0px 0px 18px 250px;
+  color: black;
+  white-space: nowrap;
+}
+
+.shapes a:hover {
+  background-color: #f3f3f3;
+  border-radius: 10px 10px 10px 10px;
+}

@@ -1,0 +1,83 @@
+#puzzle-gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-gap: 10px;
+}
+
+#puzzle-gallery .gallery-img {
+  width: 100%;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+}
+
+#puzzle-gallery p {
+  grid-area: gallery-p;
+}
+
+#puzzle-gallery h2 {
+  grid-area: gallery-h2;
+}
+
+#puzzle-gallery .img1 {
+  grid-area: img1;
+  background-image: url("img/puzzlecube/thumbs/img1.png");
+}
+
+#puzzle-gallery .img2 {
+  grid-area: img2;
+  background-image: url("img/puzzlecube/thumbs/img2.png");
+}
+
+#puzzle-gallery .img3 {
+  grid-area: img3;
+  background-image: url("img/puzzlecube/thumbs/img3.png");
+}
+
+#puzzle-gallery .img4 {
+  grid-area: img4;
+  background-image: url("img/puzzlecube/thumbs/img4.png");
+}
+
+#puzzle-gallery .img5 {
+  grid-area: img5;
+  background-image: url("img/puzzlecube/thumbs/img5.png");
+}
+
+#puzzle-gallery .img6 {
+  grid-area: img6;
+  background-image: url("img/puzzlecube/thumbs/img6.png");
+}
+
+#puzzle-gallery .img7 {
+  grid-area: img7;
+  background-image: url("img/puzzlecube/thumbs/img7.png");
+}
+
+#puzzle-gallery .img8 {
+  grid-area: img8;
+  background-image: url("img/puzzlecube/thumbs/img8.png");
+}
+
+#puzzle-gallery .img9 {
+  grid-area: img9;
+  background-image: url("img/puzzlecube/thumbs/img9.png");
+}
+
+#puzzle-gallery .img10 {
+  grid-area: img10;
+  background-image: url("img/puzzlecube/thumbs/img10.png");
+}
+
+#puzzle-gallery .img11 {
+  grid-area: img11;
+  background-image: url("img/puzzlecube/thumbs/img11.png");
+}
+
+#puzzle-gallery .img12 {
+  grid-area: img12;
+  background-image: url("img/puzzlecube/thumbs/img12.png");
+}
